@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 </p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanilCrazy99)](https://github.com/anuraghazra/github-readme-stats)
