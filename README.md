@@ -1,4 +1,4 @@
-# Hi there 👋, Danil here!
+# Hello there <img alt="Blue Light Sabre General Kenobi" src="images/Blue-Lightsabre-PNG.png" style="height: 50px; transform: scaleX(-1)"><img alt="Red Light Sabre General Grievous" src="images/Red-Lightsabre-PNG.png" style="height: 50px; ">, Danil here!
 
 <!--
 **DanilCrazy99/danilcrazy99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
