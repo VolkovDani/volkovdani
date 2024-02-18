@@ -9,11 +9,9 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on <b>NodeJS, PostgreSQL, HTML5, CSS3, Python</b>
-- 🌱 I’m currently learning <b>TDD, Async NodeJS, React, Express, Jest, GitHub.</b>
+- 🔭 I’m currently working on <b>NodeJS, TypeScript, PostgreSQL, Python</b>
+- 🌱 I’m currently learning <b>NodeJS, React, Jest, TypeScript, GitHub Actions.</b>
 - 👯 I’m looking to collaborate on <b>humans, who work in interesting places. For example, places related to sports, results, statistics, and active lifestyles.</b>
-
-- 💬 Ask me about <b>*How is a bike built from the inside?*</b>
 - 📫 How to reach me: <b>[Telegram](https://t.me/DanilCrazy99),  [LinkedIn](https://www.linkedin.com/in/danilcrazy99/)</b>
 
 <br>
