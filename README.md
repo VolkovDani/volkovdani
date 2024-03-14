@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on <b>NodeJS, TypeScript, PostgreSQL, Python</b>
 - 🌱 I’m currently learning <b>NodeJS, React, Jest, TypeScript, GitHub Actions and several number of APIs</b>
 - 👯 I’m looking to collaborate on <b>humans, who work in interesting places. For example, places related to sports, results, statistics, and active lifestyles.</b>
-- 📫 How to reach me: <b>[Telegram](https://t.me/DanilCrazy99),  [LinkedIn](https://www.linkedin.com/in/danilcrazy99/)</b>
+- 📫 How to reach me: <b>[Telegram](https://t.me/VolkovDani99),  [LinkedIn](https://www.linkedin.com/in/danilcrazy99/)</b>
 
 <br>
 <p>
@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 </p>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=DanilCrazy99&theme=synthwave&show_icons=true" width="350" align="left" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=VolkovDani&theme=synthwave&show_icons=true" width="350" align="left" /></a>
