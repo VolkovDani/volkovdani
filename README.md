@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 </p>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=VolkovDani&theme=synthwave&show_icons=true" width="350" align="left" /></a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=volkovdani&layout=donut)](https://github.com/volkovdani/github-readme-stats)
