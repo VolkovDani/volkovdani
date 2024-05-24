@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on <b>NodeJS, TypeScript, PostgreSQL, Python</b>
 - 🌱 I’m currently learning <b>NodeJS, React, Jest, TypeScript, GitHub Actions and several number of APIs</b>
 - 👯 I’m looking to collaborate on <b>humans, who work in interesting places. For example, places related to sports, results, statistics, and active lifestyles.</b>
-- 📫 How to reach me: <b>[Telegram](https://t.me/VolkovDani99),  [LinkedIn](https://www.linkedin.com/in/danilcrazy99/), <a href="mailto:danilvolkovwork@yandex.ru" target="_blank">Mail</a></b>
+- 📫 How to reach me: <b>[Telegram](https://t.me/VolkovDani99),  [LinkedIn](https://www.linkedin.com/in/danilcrazy99/), <a href="mailto:danilvolkovwork@yandex.ru" target="_blank">Mail</a>, [Telegram Channel](https://t.me/danil_lunohod)</b>
 
 <br>
 <p>
